@@ -990,6 +990,7 @@ body {
 }
 
 .form-contain__label {
+  position: relative;
   font-weight: 400;
   font-size: 12px;
   line-height: 1.16;
@@ -1003,7 +1004,7 @@ body {
   margin-bottom: 4px;
 }
 
-.input__contain {
+.form-contain__position{
   position: relative;
 }
 
