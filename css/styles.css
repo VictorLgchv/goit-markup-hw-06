@@ -982,7 +982,6 @@ body {
   display: flex;
   flex-direction: column;
   row-gap: 15px;
-  margin: 0 40px;
 }
 
 .form-contain__contain .form__contain:not(:last-child){
@@ -998,7 +997,7 @@ body {
   cursor: pointer;
 }
 
-.form-contain__label > span{
+.form-contain__label > .label__span{
   display: block;
   margin-bottom: 4px;
 }
